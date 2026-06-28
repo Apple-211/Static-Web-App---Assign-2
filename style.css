@@ -33,3 +33,15 @@ button {
 
 }
 
+.search-bar {
+    margin-bottom: 50px;
+}
+
+.search-bar {
+    border: 2px solid black;
+    padding: 8px;
+    border-radious: 5px;
+
+}
+
+
