@@ -40,8 +40,37 @@ button {
 .search-bar {
     border: 2px solid black;
     padding: 8px;
-    border-radious: 5px;
+    border-radius: 5px;
 
 }
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+.navbar a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.site-title {
+    margin-left: auto;
+    color: palevioletred;
+    font-weight: bold;
+    
+}
+
+.character-card {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+
+
 
 
